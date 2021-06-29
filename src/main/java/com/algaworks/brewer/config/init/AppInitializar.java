@@ -2,6 +2,8 @@ package com.algaworks.brewer.config.init;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
+import com.algaworks.brewer.config.WebConfig;
+
 public class AppInitializar extends AbstractAnnotationConfigDispatcherServletInitializer{
 	
 	@Override
